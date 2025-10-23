@@ -1,6 +1,6 @@
 enum Status
 {
-    RECYLING, MAKEUP,MASHCARA,LIPSTICK;
+    RECYLING, MAKEUP,MASHCARA,LIPSTICK,APPLE;
 }
 
 public class EnUmm 
