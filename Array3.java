@@ -14,7 +14,7 @@ public class Array3
     {
     Student s1 = new Student();
     s1.roll =1;
-    s1.name ="Mitu";
+    s1.name ="Rima";
  
     Student s2 = new Student();
     s2.roll =2;
